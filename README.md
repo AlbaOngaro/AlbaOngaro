@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Alba's github stats](https://github-readme-stats.vercel.app/api?username=albaongaro)](https://github.com/albaongaro/github-readme-stats)
+
+
 <!--
 **AlbaOngaro/AlbaOngaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
